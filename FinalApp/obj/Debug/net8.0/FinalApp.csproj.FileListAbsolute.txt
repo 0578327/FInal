@@ -1,0 +1,14 @@
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/bin/Debug/net8.0/FinalApp
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/bin/Debug/net8.0/FinalApp.deps.json
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/bin/Debug/net8.0/FinalApp.runtimeconfig.json
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/bin/Debug/net8.0/FinalApp.dll
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/bin/Debug/net8.0/FinalApp.pdb
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/obj/Debug/net8.0/FinalApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/obj/Debug/net8.0/FinalApp.AssemblyInfoInputs.cache
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/obj/Debug/net8.0/FinalApp.AssemblyInfo.cs
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/obj/Debug/net8.0/FinalApp.csproj.CoreCompileInputs.cache
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/obj/Debug/net8.0/FinalApp.dll
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/obj/Debug/net8.0/refint/FinalApp.dll
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/obj/Debug/net8.0/FinalApp.pdb
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/obj/Debug/net8.0/FinalApp.genruntimeconfig.cache
+/Users/jaxsonmcadoo/Desktop/Final C#/FInal/FinalApp/obj/Debug/net8.0/ref/FinalApp.dll
